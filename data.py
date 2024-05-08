@@ -1,0 +1,27 @@
+# Простейшая имитация базы данных с данными о сотрудниках
+employees = {
+    'alice': {'password': 'alice123', 'salary': 50000, 'promotion_date': '2024-06-01'},
+    'bob': {'password': 'bob456', 'salary': 60000, 'promotion_date': '2024-07-01'},
+    'employee1': {'password': 'kGcpYuP2', 'salary': 50138, 'promotion_date': '2023-04-23'},
+    'employee2': {'password': 'yfpKu0JF', 'salary': 52390, 'promotion_date': '2023-07-23'},
+    'employee3': {'password': 'JGdOWLw0', 'salary': 78311, 'promotion_date': '2023-03-09'},
+    'employee4': {'password': 'tKrL7KCq', 'salary': 31787, 'promotion_date': '2023-03-04'},
+    'employee5': {'password': '6OLY0N2e', 'salary': 59300, 'promotion_date': '2023-12-12'},
+    'employee6': {'password': '4jmVO0Fr', 'salary': 64738, 'promotion_date': '2024-11-16'},
+    'employee7': {'password': 'mmUiKE9u', 'salary': 81056, 'promotion_date': '2023-08-25'},
+    'employee8': {'password': 'sVa6nkfU', 'salary': 93894, 'promotion_date': '2023-01-09'},
+    'employee9': {'password': '8ek3oIKn', 'salary': 44859, 'promotion_date': '2024-03-26'},
+    'employee10': {'password': '5qEpxrtI', 'salary': 88337, 'promotion_date': '2023-02-20'},
+    'employee11': {'password': 'CTxNINfE', 'salary': 53207, 'promotion_date': '2024-05-31'},
+    'employee12': {'password': '9zsjT96y', 'salary': 80224, 'promotion_date': '2023-06-06'},
+    'employee13': {'password': 'hZadUGlk', 'salary': 66967, 'promotion_date': '2024-12-14'},
+    'employee14': {'password': '8jqcU3St', 'salary': 40291, 'promotion_date': '2023-05-10'},
+    'employee15': {'password': 'H8RXPoYS', 'salary': 68408, 'promotion_date': '2023-05-24'},
+    'employee16': {'password': '3aDMXoXc', 'salary': 75633, 'promotion_date': '2023-02-26'},
+    'employee17': {'password': '9cZU0jeh', 'salary': 56729, 'promotion_date': '2023-06-11'},
+    'employee18': {'password': 'JXNYxwF5', 'salary': 52858, 'promotion_date': '2024-02-29'},
+    'employee19': {'password': 'McoCMmfY', 'salary': 35835, 'promotion_date': '2024-07-13'},
+    'employee20': {'password': '7ITEm07l', 'salary': 97830, 'promotion_date': '2024-03-27'},
+    'employee21': {'password': 's9KbMGzu', 'salary': 57654, 'promotion_date': '2024-08-01'},
+    'employee22': {'password': 'bxGjD57U', 'salary': 53110, 'promotion_date': '2023-08-17'}
+}
