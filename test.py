@@ -2,11 +2,16 @@ import requests
 import json
 
 url = 'http://127.0.0.1:8000/login'
-data = {'username': 'alice', 'password': 'alice123'}
+print("Введите имя: ")
+name = input()
+print("Введите пароль: ")
+password = input()
+
+data = {'username': name, 'password': password}
 headers = {'Content-Type': 'application/json'}
 
 response = requests.post(url, data=json.dumps(data), headers=headers)
-print(response.json())
+# print(response.json())
 
 # Извлечение токена из объекта
 token = response.json().get('token')
